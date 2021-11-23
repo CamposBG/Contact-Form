@@ -1,0 +1,31 @@
+body{
+background-color: hsl(207, 51%, 71%);}
+main{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+
+}
+.formulario{
+  color: antiquewhite;
+  font-weight: 500;
+  background-color:hsl(207, 72%, 50%);
+  border-radius: 5px;
+  height: auto;
+  max-width: 700px;
+  margin: 20px;
+  padding: 10px;
+}
+.btn{
+  border:antiquewhite solid 1px;
+}
+h1{
+  color: hsl(207, 80%, 38%);
+  font-size: 3rem;
+}
+
+.valid-feedback{
+  color: aquamarine;
+}

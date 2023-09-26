@@ -1,6 +1,6 @@
 const nodemailer = require("nodemailer");
 
-// comment here
+// comment
 function translateSubject(subject = subject) {
   if (subject === "1") {
     return "refund";
